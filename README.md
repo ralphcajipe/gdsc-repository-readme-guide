@@ -1,4 +1,4 @@
-# gdsc-repository-readme-guide
+# gdsc-website-repo-sample
 
 # GDSC FEU Tech Website
 
